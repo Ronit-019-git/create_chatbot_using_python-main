@@ -1,4 +1,4 @@
-# Smartchatbot-using-Python-
+# Smartchatbot-using-Python
 A simple AI-based chatbot built using TensorFlow and NLTK. It classifies user inputs into predefined intents using a trained neural network and responds accordingly. Includes training data, model, and scripts for both training and real-time interaction.
 
 # 🤖 Chatbot using Python, TensorFlow, and NLTK
